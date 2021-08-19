@@ -1,0 +1,50 @@
+body {
+  color: white;
+
+background: -moz-linear-gradient(left, #ee3897 0, #f1745a 100%);
+        background: -webkit-linear-gradient(left, #ee3897 0, #f1745a 100%);
+        background: linear-gradient(to right, #ee3897 0, #f1745a 100%);
+      text-decoration: none;
+}
+
+.la {
+  padding: 40px;
+  width: 800px;
+  height: 700px;
+  margin: 20px 16px;
+  background-image: url('amores.png');
+  background-size: right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.lat {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.lat a {
+  width: 120px;
+  height: 60px;
+  background: orange;
+  line-height: 2;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+p {
+  text-shadow: 3px 2px black;
+}
+
+.teori--de {
+  padding: 20px 0;
+  display: flex;
+}
+
+.yo, yi {
+  width: 480px;
+}
