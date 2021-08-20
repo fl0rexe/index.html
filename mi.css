@@ -1,0 +1,16 @@
+* {
+background: orange;
+color: white;
+text-aling: center; 
+border: 4px  solid black;
+}
+
+h1 {
+color: blue;
+background: lightblue;
+}
+
+p {
+color: grey;
+background: #e48;
+}
