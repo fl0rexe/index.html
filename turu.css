@@ -1,0 +1,15 @@
+body {
+  text-decoration: none;
+  display: block;
+  width: 400px;
+  height: 300px;
+  background: #8859d5;
+  text-align: center;
+  color: red;
+}
+
+.folder {
+  background: #cc24db;
+  border: 4px solid yellow;
+  border-radius: 10%;
+}
