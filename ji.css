@@ -1,0 +1,74 @@
+* {
+ /*padding: 0;
+ margin: 0;*/
+ box-sizing: boder-box;
+ font-family: Tahoma;
+}
+
+body {
+  background: #778;
+   padding: 12px 10px;
+   margin: 10px 10px;
+}
+
+.content {
+  background: #999;
+  box-shadow: 3px 3px 2px 0px black;
+  border-radius: 7px;
+}
+
+p::first-letter {
+  font-size: 4em;
+   color: blue;
+}
+ 
+p {
+  color: lightblue;
+}
+
+.datos {
+  background: #798;
+  border: 2px solid green;
+  border-radius: 10px;
+  box-shadow: 7px 4px 8px 0px black;
+}
+
+
+.datos input {
+  margin: 17px 5px;
+  margin-left: 370px;
+  background: #48e;
+  border: 2px solid black;
+}
+
+.datos input::placeholder {
+  color: #9c2ab6;
+}
+
+.boton {
+  text-decoration: none;
+  background: lightgreen;
+  height: 30px;
+  width: 120px;
+  text-align: center;
+  border: 3px solid green;
+  border-radius: 10px;
+  margin-top: 39px;
+  margin-left: 380px;
+}
+
+.info {
+  margin-top: 29px;
+}
+
+small {
+  margin-bottom: 30px;
+  border: 3px dashed blue;
+  font-size: 12px;
+  background: #39f;
+}
+
+h5 {
+  font-size: 7px;
+  margin-top: 19px;
+}
